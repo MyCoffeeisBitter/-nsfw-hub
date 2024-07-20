@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.10",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.19.2",
+    "http-errors": "~1.6.3",
+    "livereload": "^0.9.3",
+    "morgan": "~1.9.1",
+    "nsfwhub": "^0.0.2",
+    "r34-module": "^1.3.1"
+  }
+}
